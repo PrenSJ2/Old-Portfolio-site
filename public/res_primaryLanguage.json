@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sebastian Prentice. A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space🌐. Currently, I am finishing my BSc Computing degree at The University of Buckingham, and have studied at Santa Clara University🎓.",
+      "description": "👋 I'm Sebastian Prentice. A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space🌐. Currently, I am finishing my BSc Computing degree at The University of Buckingham, and have studied at Santa Clara University🎓until the COVID-19 pandemic.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -82,7 +82,7 @@
         "company": "Online Olive",
         "title": "Freelance Front-End Developer",
         "years": "03.2018 - present",
-        "description": "Developed websited for 6 clients, Curated content and Launched maketing campaigns using Facebook Ads, Utilizing Abode Creative Cloud to conceptualize design discussions.",
+        "description": "Developed websites for 6 clients, Curated content and Launched maketing campaigns using Facebook Ads, Utilising Adobe Creative Cloud to conceptualising design breifs and discussions with clients.",
         "mainTech": [
           "<Website Development />"
         ],
@@ -98,10 +98,10 @@
         ]
       },
       {
-        "company": "Brows of Blakesley",
+        "company": "Browns of Blakesley - Retail Shop & Post Office",
         "title": "Manager",
         "years": "11.2020 - 06.2021",
-        "description": "Conducted Closing and Opening Routines, Managed Post Office Money and Stamps, Introduced automated powersockets to improve efficiency, Set up new remote access CCTV system.",
+        "description": "Conducted closing and opening routines, Managed Post Office Money and Stamps, Introduced automated powersockets to improve efficiency, Set up new remote access CCTV system.",
         "mainTech": [
           "<Retail />"
         ],
