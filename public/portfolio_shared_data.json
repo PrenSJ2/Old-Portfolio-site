@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Sebastian Prentice",
+      "titles": [ "Front-end Developer", "UX Engineer", "Student" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/PrenSJ2/",
           "class": "fab fa-github"
         },
         {
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "80"
         },
         {
@@ -44,23 +44,28 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Adobe Xd",
+          "class": "devicon-xd-plain",
+          "level": "75"
+        },
+        {
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         }
       ]
