@@ -1,0 +1,179 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sebastian Prentice. A Nerd👨‍💻, I have 6+ years self-trained in HTML, CSS, Javascript & React, and have an anentrepreneurial drive with a passion for the new and upcoming web 3 space🌐. Currently I am finishing my BSc Computing degreee at The University of Buckingham, and have studied at Santa Clara University🎓.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Purple Hill Handmade",
+        "startDate": "2020 - Present",
+        "description": "Working with an upcoming fashion brand, based out of london with one of one custom pieces. As they are a small company with only 3 team members. I had the opportunity to grow my skills along with building the website, to manage stock control, curating content, and work on an NFT collection.",
+        "images": [
+          "images/portfolio/purple-hill/purplehill.png",
+          "images/portfolio/purple-hill/purplehill2.png"
+        ],
+        "url": "https://purplehill.shop/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          },
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Airbnb Clone",
+        "startDate": "2022",
+        "description": "Personal project to learn more React Styling techniques",
+        "images": [
+          "images/portfolio/airbnb-clone/airbnbclone.png"
+        ],
+        "url": "https://airbnb-clone-prensj2.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "Wintershill Hall",
+        "startDate": "2022",
+        "description": "Wedding and Events Venue Website",
+        "images": [
+          "images/portfolio/wintershill-hall/wintershillhall.png"
+        ],
+        "url": "https://wintershill.net/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          },
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Online Olive",
+        "title": "Freelance Front-End Developer",
+        "years": "03.2018 - present",
+        "description": "Developed websited for 6 clients, Curated content and Launched maketing campaigns using Facebook Ads, Utilizing Abode Creative Cloud to conceptualize design discussions.",
+        "mainTech": [
+          "<Website Development />"
+        ],
+        "technologies": [
+          "Wordpress",
+          "React",
+          "JavaScript",
+          "Bootstrap",
+          "Wordpress",
+          "Photoshop",
+          "Illustrator",
+          "Adobe Xd"
+        ]
+      },
+      {
+        "company": "Brows of Blakesley",
+        "title": "Manager",
+        "years": "11.2020 - 06.2021",
+        "description": "Conducted Closing and Opening Routines, Managed Post Office Money and Stamps, Introduced automated powersockets to improve efficiency, Set up new remote access CCTV system.",
+        "mainTech": [
+          "<Retail />"
+        ],
+        "technologies": [
+          "CCTV",
+          "Automation",
+          "Stock Management",
+          "Customer Support",
+          "Money Lockup"
+        ]
+      },
+      {
+        "company": "Reset MSM",
+        "title": "Tech Intern",
+        "years": "09.2020 - 01.2021",
+        "description": "Operated the migration of server-side functions, databases, and hosting from Firebase to AWS, Designed UI for IOS app and AWS portal.",
+        "mainTech": [
+          "<Software Engineering />"
+        ],
+        "technologies": [
+          "AWS",
+          "Firebase",
+          "Javascript",
+          "Postman",
+          "Adobe XD"
+        ]
+      },
+      {
+        "company": "Santa Clara University | Ignatian Center",
+        "title": "Web Administrator",
+        "years": "09.2019 - 03.2020",
+        "description": "Created and managed all web content for the Ignatian Center for Jesuit Education at Santa Clara University, Used Google analytics and SiteImprove to measure page statistics and improve usability score.",
+        "mainTech": [
+          "<Website Development />"
+        ],
+        "technologies": [
+          "HTML",
+          "CMS",
+          "CSS",
+          "Javascript",
+          "Photoshop"
+        ]
+      },
+      {
+        "company": "TECH CAMP",
+        "title": "Summer Camp Teacher",
+        "years": "07.2018 - 08.2018",
+        "description": "Taught class of 13 students aged 9-13 how to use CAD for laser cutters, 3D printers and block based coding. Improved communication skills with parents and children, documented student progress and attendance.",
+        "mainTech": [
+          "<Teaching />"
+        ],
+        "technologies": [
+          "CAD",
+          "Teaching",
+          "Basic Programming Concepts",
+          "Communication"
+        ]
+      },
+      {
+        "company": "Ocado Technologies | Code for Life",
+        "title": "Intern",
+        "years": "06.2018",
+        "description": "Worked on game code with Python, Fixed bugs on website, Created new loading animation with css.",
+        "mainTech": [
+          "<Software Engineering />"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Python"
+        ]
+      }
+    ]
+  }
